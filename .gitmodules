@@ -1,0 +1,3 @@
+[submodule "GitSubmodulePractice-Sub"]
+	path = GitSubmodulePractice-Sub
+	url = https://github.com/HamburgerGodThief/GitSubmodulePractice-Sub.git
